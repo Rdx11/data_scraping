@@ -1,0 +1,406 @@
+[
+    {
+        "nama": "Afif Herpanand",
+        "status": "hqsantri_belajar"
+    },
+    {
+        "nama": "Ari Heru Rinaldi",
+        "status": "hqalumni"
+    },
+    {
+        "nama": "Arie Fajar Pratama",
+        "status": "hq"
+    },
+    {
+        "nama": "Arizka Yusril Aziz",
+        "status": "andalussantri_magang"
+    },
+    {
+        "nama": "Farhan Yudhi Fatah",
+        "status": "hqsantri_magang"
+    },
+    {
+        "nama": "Hafidz Mahrus",
+        "status": "hqmagang"
+    },
+    {
+        "nama": "Saipul Hidayat",
+        "status": "hqalumni"
+    },
+    {
+        "nama": "Taufiq Ismatullah",
+        "status": "andalussantri_magang"
+    },
+    {
+        "nama": "Khalid Ibrahim",
+        "status": "magelangsantri_belajar"
+    },
+    {
+        "nama": "Naufal Lutfi F",
+        "status": "semarangalumni"
+    },
+    {
+        "nama": "Nasrul Fuad",
+        "status": "hqsantri_magang"
+    },
+    {
+        "nama": "Dicky Setiawan",
+        "status": "magelangmagang"
+    },
+    {
+        "nama": "Ahmad Fauzan",
+        "status": "hqmagang"
+    },
+    {
+        "nama": "Rifky Maulana",
+        "status": "hq"
+    },
+    {
+        "nama": "Rijal Solahodin",
+        "status": "hqsantri_magang"
+    },
+    {
+        "nama": "Sigit Wasis Subekti",
+        "status": "andalussantri_magang"
+    },
+    {
+        "nama": "Muhammad Tegar Ramadhan",
+        "status": "qodrbee"
+    },
+    {
+        "nama": "Muhammad Viqqri A.A.A.",
+        "status": "hq"
+    },
+    {
+        "nama": "Aditya Dwi Prabowo",
+        "status": "qodrbee"
+    },
+    {
+        "nama": "Khoirul Anwar",
+        "status": "hqngilang"
+    },
+    {
+        "nama": "Nanda Puspita Rana",
+        "status": "hqmagang"
+    },
+    {
+        "nama": "Muhammad Gurfon",
+        "status": "hqalumni"
+    },
+    {
+        "nama": "Sheena Muhammad Ali Zien",
+        "status": "magetanmagang"
+    },
+    {
+        "nama": "Achmad Zainul Arianto",
+        "status": "magetanalumni"
+    },
+    {
+        "nama": "Taufan Prasetyo",
+        "status": "hq"
+    },
+    {
+        "nama": "Rohmat Trimanto",
+        "status": "hqcuti"
+    },
+    {
+        "nama": "Fendy Kharisma",
+        "status": "hqngilang"
+    },
+    {
+        "nama": "Muh. Fahmi Ulul Azmi",
+        "status": "semarangalumni"
+    },
+    {
+        "nama": "Ibrahim Abdul Majid",
+        "status": "magetanalumni"
+    },
+    {
+        "nama": "Zaid Humam",
+        "status": "semarangalumni"
+    },
+    {
+        "nama": "Abdurochman",
+        "status": "semarang"
+    },
+    {
+        "nama": "Muhammad Ihsan Atthoriqi",
+        "status": "semarangngilang"
+    },
+    {
+        "nama": "Naufal Rasyid",
+        "status": "magelangmagang"
+    },
+    {
+        "nama": "Muhammad Hakim Al Madani",
+        "status": "magelangmagang"
+    },
+    {
+        "nama": "Dimas Achmad Alimul Mubin",
+        "status": "magelangmagang"
+    },
+    {
+        "nama": "Adi Purnama Santosa",
+        "status": "hqdropout"
+    },
+    {
+        "nama": "Arieful Khakim",
+        "status": "pekalongan"
+    },
+    {
+        "nama": "Furwadi Giyono",
+        "status": "pekalonganalumni"
+    },
+    {
+        "nama": "M. Rahmandika Haekal",
+        "status": "pekalonganalumni"
+    },
+    {
+        "nama": "Mohammad Azam Al Qorni",
+        "status": "pekalonganalumni"
+    },
+    {
+        "nama": "Zihad Rizky Edwin Fikri",
+        "status": "pekalonganalumni"
+    },
+    {
+        "nama": "Aan Aliudin",
+        "status": "pekalongan"
+    },
+    {
+        "nama": "Abdurrahman",
+        "status": "pekalonganalumni"
+    },
+    {
+        "nama": "Aswin Sigma Adisaputra",
+        "status": "pekalongan"
+    },
+    {
+        "nama": "Abdul Rahman Jabbar",
+        "status": "pekalonganalumni"
+    },
+    {
+        "nama": "Ahmad Fajrul Falah",
+        "status": "magetan"
+    },
+    {
+        "nama": "Sultan Imam Muttaqin",
+        "status": "magetansantri_magang"
+    },
+    {
+        "nama": "Rahmat Hidayat Piji Pirma",
+        "status": "pekalonganalumni"
+    },
+    {
+        "nama": "Muhammad Fakhri Dzulfikar",
+        "status": "pekalonganalumni"
+    },
+    {
+        "nama": "Ahnaf Ibrahim Dzaky",
+        "status": "-seed"
+    },
+    {
+        "nama": "Tria Bagus Nur Taufik",
+        "status": "hq"
+    },
+    {
+        "nama": "Fauzi Hanif",
+        "status": "semarangalumni"
+    },
+    {
+        "nama": "Alif Rizki Pambudi",
+        "status": "hq"
+    },
+    {
+        "nama": "Ilham Syaputra",
+        "status": "magelangmagang"
+    },
+    {
+        "nama": "Muhammad Aprianjodi",
+        "status": "semarangalumni"
+    },
+    {
+        "nama": "Muhamad Zulfiqor",
+        "status": "magelang"
+    },
+    {
+        "nama": "Muamar Khadafi",
+        "status": "magelangmagang"
+    },
+    {
+        "nama": "Faizal Andyka Putra",
+        "status": "semarangalumni"
+    },
+    {
+        "nama": "Azharudin Fajrullah",
+        "status": "semarang"
+    },
+    {
+        "nama": "Hadisasmito",
+        "status": "hqalumni"
+    },
+    {
+        "nama": "Nur Muhammad Jazuli",
+        "status": "semarangalumni"
+    },
+    {
+        "nama": "Ridho Anbia Habibullah",
+        "status": "magetanalumni"
+    },
+    {
+        "nama": "Ade khairul Umam",
+        "status": "magelang"
+    },
+    {
+        "nama": "Muhammad naufal abbad",
+        "status": "magelangmagang"
+    },
+    {
+        "nama": "Nafis Iman Arradhwa",
+        "status": "magelang"
+    },
+    {
+        "nama": "Khoirul Anam",
+        "status": "andalussantri_magang"
+    },
+    {
+        "nama": "Rahmad Harfian Hidayat",
+        "status": "qodrbee"
+    },
+    {
+        "nama": "Abian Almadani",
+        "status": "qodrbee"
+    },
+    {
+        "nama": "Muhammad Shiddiq Fitriyansyah",
+        "status": "qodrbee"
+    },
+    {
+        "nama": "Muhammad Isnul",
+        "status": "andalussantri_magang"
+    },
+    {
+        "nama": "Luthfi Khoirul Anwar",
+        "status": "hqmagang"
+    },
+    {
+        "nama": "Aditya Pratama Putra",
+        "status": "qodrbeealumni"
+    },
+    {
+        "nama": "Rahmat Prasetyo",
+        "status": "hqpkl"
+    },
+    {
+        "nama": "Yogi Alif Tauhid",
+        "status": "hqpkl"
+    },
+    {
+        "nama": "Agung Jaya Kusuma",
+        "status": "hqpkl"
+    },
+    {
+        "nama": "Kurniawan Syahputra",
+        "status": "qodrbee"
+    },
+    {
+        "nama": "Muhammad Azzam",
+        "status": "qodrbee"
+    },
+    {
+        "nama": "Ismail Wildan Syahidan",
+        "status": "hqdropout"
+    },
+    {
+        "nama": "Amrozi",
+        "status": "qodrbee"
+    },
+    {
+        "nama": "miqdad",
+        "status": "hqsantri_magang"
+    },
+    {
+        "nama": "Dwi Misbachul Munir",
+        "status": "magelangsantri_belajar"
+    },
+    {
+        "nama": "Esa Yudhistira Muhammad Raafi Adam",
+        "status": "magelangsantri_belajar"
+    },
+    {
+        "nama": "dwi sugiyanto",
+        "status": "hqsantri_magang"
+    },
+    {
+        "nama": "adil sholakhuddin",
+        "status": "magelangsantri_belajar"
+    },
+    {
+        "nama": "Muhammad Fatkurozi",
+        "status": "hqsantri_magang"
+    },
+    {
+        "nama": "sayyid muhammad umar",
+        "status": "magelangsantri_belajar"
+    },
+    {
+        "nama": "Yosada Dede Aressa",
+        "status": "hqsantri_magang"
+    },
+    {
+        "nama": "diko mahendra",
+        "status": "magelangsantri_belajar"
+    },
+    {
+        "nama": "risyadulalim",
+        "status": "hqtugas-belajar"
+    },
+    {
+        "nama": "suraji",
+        "status": "hqsantri_magang"
+    },
+    {
+        "nama": "Abimanyu Gatya Dhaneswara",
+        "status": "hqsantri_magang"
+    },
+    {
+        "nama": "Imam Ikhlasul Jihad",
+        "status": "hqsantri_magang"
+    },
+    {
+        "nama": "muslikhuladib",
+        "status": "hqsantri_belajar"
+    },
+    {
+        "nama": "Muhammad Alifudin Ashfa",
+        "status": "andalussantri_belajar"
+    },
+    {
+        "nama": "rogertesting",
+        "status": "andalus"
+    },
+    {
+        "nama": "Zayni Tsabit Salam",
+        "status": "magelangsantri_belajar"
+    },
+    {
+        "nama": "Thirafi Firdaus",
+        "status": "magelangsantri_belajar"
+    },
+    {
+        "nama": "Abdul Mustofa Harahap",
+        "status": "hqsantri_magang"
+    },
+    {
+        "nama": "Rasta Atalarajafa Wahyudi",
+        "status": "samarindasantri_belajar"
+    },
+    {
+        "nama": "Hendy Saputra",
+        "status": "samarindasantri_belajar"
+    },
+    {
+        "nama": "Asmawi Lubis",
+        "status": "samarindasantri_belajar"
+    }
+]
